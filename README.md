@@ -7,7 +7,6 @@ Software Engineer
 Software Engineer passionate about elegant solutions, low level programming and cyber security.  
 * 🌍  I'm based in Switzerland
 * ✉️  You can contact me at [email@jose-desouza.com](mailto:email@jose-desouza.com)
-* 🧠  I'm learning Hacking * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  Portuguese | English | German | Italian | Spanish
 
 ### Skills
