@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer 
 -----------------  
 
-Senior Software Engineer with 10+ years experience in Java Enterprise Software Development. Extensive experience in back-end development and vast hands on experience with JEE and the Spring Ecosystem. Distributed systems is a particular area of interest. Clean Code, TDD and other agile disciplines are very well used and understood. Speaks fluent Portuguese, German, English, Spanish and Italian. Has worked at several international projects in different fields like Energy industry, Chemicals, Automobile, Banking etc.  
+Software Engineer passionate about elegant solutions, low level programming and cyber security.  
 * 🌍  I'm based in Switzerland
 * ✉️  You can contact me at [email@jose-desouza.com](mailto:email@jose-desouza.com)
 * 🧠  I'm learning Hacking * 🤝  I'm open to collaborating on Interesting Projects
