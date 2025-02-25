@@ -33,6 +33,9 @@ Software Engineer passionate about elegant solutions, low level programming and 
   <a href="https://dev.to/teker/why-i-use-c-1ndl" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 
+  <a href="https://sonictk.github.io/asm_tutorial/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Netwide_Assembler.svg" width="36" height="36" alt="Assembly" /></a>
+
   <a href="https://www.swift.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
 
