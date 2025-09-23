@@ -1,4 +1,4 @@
-### Version in English - José Esteves de Souza Neto
+# José Esteves de Souza Neto
 
 **Date of Birth:** 08/13/1980  
 **Phone:** +55(31)99675-5500  
