@@ -92,6 +92,8 @@ JEE / Jakarta EE (fortgeschritten) | SpringBoot (fortgeschritten) | Quarkus (for
 - **Systems Analysis and Development, Bachelor, UniCV – voraussichtlicher Abschluss 2026**  
 - **Técnico em Desenvolvimento de Sistemas, Technischer Titel, SEI – Abschluss 06. August 2025** (Verify: https://sistec.mec.gov.br/validadenacional mit dem Code 71331/128470712CM)  
 - **telc Deutsch C1 Hochschule, Sprachzertifikat (C1-Niveau), telc – Abschluss 20. September 2024** (Verify: https://results.telc.net/qr/jGygcj98RaKAV250nzQPBeQonPM66kPbkU6ZoOKH14gOhjbbO0hNkagCYK8Qj5bl)  
+- **IMERSAO START HACKING, Kurs (10 Stunden), TI ACADEMY – Abschluss 17. August 2025** (Verify: https://gerarcertificado.com.br/validar/?cert=89a03c39debef97c97f06cfbe8a83181)  
+- **WORKSHOP HACKER INVESTIGADOR, Kurs (16 Stunden), Hacker Society – Abschluss 10. August 2025** (Verify: https://certopus.com/c/71ad5fc15f9a40d186956fca63a01697)  
 - **The Complete Microservices & Event-Driven Architecture, Kurs (5,5 Stunden), Udemy – Abschluss 17. Juni 2024** (Verify: https://ude.my/UC-5b4e81a0-7909-4be2-8f0d-57b3ef846944)  
 - **x86 Assembly Language Programming Masters Course, Kurs (3,5 Stunden), Udemy – Abschluss 15. November 2023** (Verify: https://ude.my/UC-1d211148-d73a-42c2-8b98-3f97430ef8aa)  
 - **IBM DevOps and Software Engineering, Professional Certificate (14 Kurse), Coursera – Abschluss 07. September 2023** (Verify: https://coursera.org/verify/professional-cert/6FE8YT3KXTTP)  
@@ -109,4 +111,4 @@ JEE / Jakarta EE (fortgeschritten) | SpringBoot (fortgeschritten) | Quarkus (for
 - **Deutsch:** C1 (telc Deutsch C1 Hochschule, 2024)  
 - **Englisch:** C1  
 - **Spanisch:** C1  
-- **Italienisch:** C1
+- **Italienisch:** C1  
