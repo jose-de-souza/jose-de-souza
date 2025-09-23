@@ -90,18 +90,20 @@ JEE / Jakarta EE (avançado) | SpringBoot (avançado) | Quarkus (avançado) | An
 #### Formação e Cursos
 
 - **Análise e Desenvolvimento de Sistemas, Bacharelado, UniCV – Conclusão prevista para 2026**  
-- **Técnico em Desenvolvimento de Sistemas, Título Técnico, SEI – Conclusão 06 de Agosto de 2025** (Verificar: https://sistec.mec.gov.br/validadenacional com o código 71331/128470712CM)  
-- **telc Deutsch C1 Hochschule, Certificado de Idioma (Nível C1), telc – Conclusão 20 de Setembro de 2024** (Verificar: https://results.telc.net/qr/jGygcj98RaKAV250nzQPBeQonPM66kPbkU6ZoOKH14gOhjbbO0hNkagCYK8Qj5bl)  
-- **The Complete Microservices & Event-Driven Architecture, Curso (5,5 horas), Udemy – Conclusão 17 de Junho de 2024** (Verificar: https://ude.my/UC-5b4e81a0-7909-4be2-8f0d-57b3ef846944)  
-- **x86 Assembly Language Programming Masters Course, Curso (3,5 horas), Udemy – Conclusão 15 de Novembro de 2023** (Verificar: https://ude.my/UC-1d211148-d73a-42c2-8b98-3f97430ef8aa)  
-- **IBM DevOps and Software Engineering, Certificado Profissional (14 cursos), Coursera – Conclusão 07 de Setembro de 2023** (Verificar: https://coursera.org/verify/professional-cert/6FE8YT3KXTTP)  
-- **Programming in Java: A Hands-on Introduction, Especialização (4 cursos), Coursera – Conclusão 10 de Dezembro de 2021** (Verificar: https://coursera.org/verify/specialization/AWQJ5TZMAQHA)  
-- **Java 8 New Features, Curso (20,5 horas), Udemy – Conclusão 26 de Outubro de 2021** (Verificar: https://ude.my/UC-b15f8ff6-335d-483d-914a-02015aa753e8)  
-- **Eclipse Debugging Techniques And Tricks, Curso (3 horas), Udemy – Conclusão 08 de Outubro de 2021** (Verificar: https://www.udemy.com/certificate/UC-97f9c96e-d759-4f51-8e20-33c2a6057f58)  
-- **Test-Driven Development in Java, Curso (3 horas), Udemy – Conclusão 21 de Dezembro de 2019** (Verificar: https://ude.my/UC-YFR5UEDS)  
-- **Java Programmieren – Der Fortgeschrittenen Kurs, Curso (11,5 horas), Udemy – Conclusão 17 de Dezembro de 2018** (Verificar: https://ude.my/UC-2GEYF6NS)  
-- **Introduction to Python, Curso (4 horas), DataCamp – Conclusão 21 de Agosto de 2018** (Verificar: https://www.datacamp.com/completed/statement-of-accomplishment/course/ebcfd533cd55772c6b89d39dc05496519c9cfde9)  
-- **Preparatório Para Certificação Java – OCPJP, Curso (45 horas), MX Cursos – Conclusão 04 de Novembro de 2014** (Verificar: https://app.mxcursos.com/app/certificado?code=92ADC21)  
+- **Técnico em Desenvolvimento de Sistemas, Título Técnico, SEI – Conclusão 06/08/2025** (Verificar: https://sistec.mec.gov.br/validadenacional com o código 71331/128470712CM)  
+- **telc Deutsch C1 Hochschule, Certificado de Idioma (Nível C1), telc – Conclusão 20/09/2024** (Verificar: https://results.telc.net/qr/jGygcj98RaKAV250nzQPBeQonPM66kPbkU6ZoOKH14gOhjbbO0hNkagCYK8Qj5bl)  
+- **IMERSAO START HACKING, Curso (10 horas), TI ACADEMY – Conclusão 17/08/2025** (Verificar: https://gerarcertificado.com.br/validar/?cert=89a03c39debef97c97f06cfbe8a83181)  
+- **WORKSHOP HACKER INVESTIGADOR, Curso (16 horas), Hacker Society – Conclusão 10/08/2025** (Verificar: https://certopus.com/c/71ad5fc15f9a40d186956fca63a01697)  
+- **The Complete Microservices & Event-Driven Architecture, Curso (5,5 horas), Udemy – Conclusão 17/06/2024** (Verificar: https://ude.my/UC-5b4e81a0-7909-4be2-8f0d-57b3ef846944)  
+- **x86 Assembly Language Programming Masters Course, Curso (3,5 horas), Udemy – Conclusão 15/11/2023** (Verificar: https://ude.my/UC-1d211148-d73a-42c2-8b98-3f97430ef8aa)  
+- **IBM DevOps and Software Engineering, Certificado Profissional (14 cursos), Coursera – Conclusão 07/09/2023** (Verificar: https://coursera.org/verify/professional-cert/6FE8YT3KXTTP)  
+- **Programming in Java: A Hands-on Introduction, Especialização (4 cursos), Coursera – Conclusão 10/12/2021** (Verificar: https://coursera.org/verify/specialization/AWQJ5TZMAQHA)  
+- **Java 8 New Features, Curso (20,5 horas), Udemy – Conclusão 26/10/2021** (Verificar: https://ude.my/UC-b15f8ff6-335d-483d-914a-02015aa753e8)  
+- **Eclipse Debugging Techniques And Tricks, Curso (3 horas), Udemy – Conclusão 08/10/2021** (Verificar: https://www.udemy.com/certificate/UC-97f9c96e-d759-4f51-8e20-33c2a6057f58)  
+- **Test-Driven Development in Java, Curso (3 horas), Udemy – Conclusão 21/12/2019** (Verificar: https://ude.my/UC-YFR5UEDS)  
+- **Java Programmieren – Der Fortgeschrittenen Kurs, Curso (11,5 horas), Udemy – Conclusão 17/12/2018** (Verificar: https://ude.my/UC-2GEYF6NS)  
+- **Introduction to Python, Curso (4 horas), DataCamp – Conclusão 21/08/2018** (Verificar: https://www.datacamp.com/completed/statement-of-accomplishment/course/ebcfd533cd55772c6b89d39dc05496519c9cfde9)  
+- **Preparatório Para Certificação Java – OCPJP, Curso (45 horas), MX Cursos – Conclusão 04/11/2014** (Verificar: https://app.mxcursos.com/app/certificado?code=92ADC21)  
 
 #### Idiomas
 
