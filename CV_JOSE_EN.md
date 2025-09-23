@@ -89,9 +89,11 @@ JEE / Jakarta EE (advanced) | SpringBoot (advanced) | Quarkus (advanced) | Angul
 
 #### Education and Training
 
-- **Systems Analysis and Development, Bachelor’s Degree, UniCV – Expected completion 2026**  
+- **Systems Analysis and Development, Bachelor, UniCV – Expected completion 2026**  
 - **Técnico em Desenvolvimento de Sistemas, Technical Degree, SEI – Completion 08/06/2025** (Verify: https://sistec.mec.gov.br/validadenacional with code 71331/128470712CM)  
 - **telc Deutsch C1 Hochschule, Language Certificate (C1 Level), telc – Completion 09/20/2024** (Verify: https://results.telc.net/qr/jGygcj98RaKAV250nzQPBeQonPM66kPbkU6ZoOKH14gOhjbbO0hNkagCYK8Qj5bl)  
+- **IMERSAO START HACKING, Course (10 hours), TI ACADEMY – Completion 08/17/2025** (Verify: https://gerarcertificado.com.br/validar/?cert=89a03c39debef97c97f06cfbe8a83181)  
+- **WORKSHOP HACKER INVESTIGADOR, Course (16 hours), Hacker Society – Completion 08/10/2025** (Verify: https://certopus.com/c/71ad5fc15f9a40d186956fca63a01697)  
 - **The Complete Microservices & Event-Driven Architecture, Course (5.5 hours), Udemy – Completion 06/17/2024** (Verify: https://ude.my/UC-5b4e81a0-7909-4be2-8f0d-57b3ef846944)  
 - **x86 Assembly Language Programming Masters Course, Course (3.5 hours), Udemy – Completion 11/15/2023** (Verify: https://ude.my/UC-1d211148-d73a-42c2-8b98-3f97430ef8aa)  
 - **IBM DevOps and Software Engineering, Professional Certificate (14 courses), Coursera – Completion 09/07/2023** (Verify: https://coursera.org/verify/professional-cert/6FE8YT3KXTTP)  
@@ -109,4 +111,5 @@ JEE / Jakarta EE (advanced) | SpringBoot (advanced) | Quarkus (advanced) | Angul
 - **German:** C1 (telc Deutsch C1 Hochschule, 2024)  
 - **English:** C1  
 - **Spanish:** C1  
-- **Italian:** C1  
+- **Italian:** C1
+  
