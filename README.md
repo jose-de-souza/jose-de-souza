@@ -1,113 +1,197 @@
 # José Esteves de Souza Neto
 
-**Geburtsdatum:** 13.08.1980  
-**E-Mail:** josethedeveloper@gmail.com  
+**Date of Birth:** 08/13/1980  
+**Phone:** +55(31)99675-5500  
+**Email:** josethedeveloper@gmail.com  
 
-#### Über mich
+## About Me
 
-Als Senior Software Engineer bringe ich über 14 Jahre Erfahrung in der Entwicklung von Java Enterprise Software mit, insbesondere im Back-End-Bereich mit tiefem Know-how in JEE und dem Spring-Ökosystem. Ich wende agile Praktiken wie Clean Code und TDD konsequent an. Mit fließenden Kenntnissen in Portugiesisch (Muttersprache), Deutsch (C1), Englisch, Spanisch und Italienisch habe ich in Branchen wie Energie, Chemie, Automobil, Banking und Retail gearbeitet. Ich zeichne mich durch Flexibilität, Zuverlässigkeit und Teamfähigkeit aus, habe komplexe Projekte unter Druck erfolgreich umgesetzt und Junior-Mitarbeiter in ihrer Karriereentwicklung unterstützt.
+As a **Senior Software Engineer**, I bring over **14 years of experience** in developing **Java Enterprise Software**, with deep expertise in back-end development, particularly in **JEE** and the **Spring ecosystem**. I consistently apply agile practices such as **Clean Code** and **TDD**. Fluent in **Portuguese (native)**, **German (C1)**, **English**, **Spanish**, and **Italian**, I have worked across industries including **energy**, **chemicals**, **automotive**, **banking**, and **retail**. I am recognized for my **flexibility**, **reliability**, and **teamwork**, having successfully delivered complex projects under pressure and supported the career development of junior colleagues.
 
-#### Digitale Fähigkeiten
+## Digital Skills
 
-**DevOps**  
-Git (fortgeschritten) | Maven (fortgeschritten) | CI/CD (fortgeschritten) | Openshift (fortgeschritten) | Docker (fortgeschritten) | Kubernetes (fortgeschritten) | GitLab (fortgeschritten) | Linux (fortgeschritten)  
+### DevOps
+- Git *(advanced)*
+- Maven *(advanced)*
+- CI/CD *(advanced)*
+- Openshift *(advanced)*
+- Docker *(advanced)*
+- Kubernetes *(advanced)*
+- GitLab *(advanced)*
+- Linux *(advanced)*
 
-**Programmiersprachen**  
-Java (Experte) | JavaScript (fortgeschritten) | TypeScript (mittel) | Kotlin (mittel) | Python (mittel) | C (mittel) | Swift (fortgeschritten) | SQL (fortgeschritten) | Assembly (mittel)  
+### Programming Languages
+- Java *(expert)*
+- JavaScript *(advanced)*
+- TypeScript *(intermediate)*
+- Kotlin *(intermediate)*
+- Python *(intermediate)*
+- C *(intermediate)*
+- Swift *(advanced)*
+- SQL *(advanced)*
+- Assembly *(intermediate)*
 
-**Methoden / Techniken**  
-SCRUM (fortgeschritten) | TDD (fortgeschritten) | DDD (fortgeschritten) | REST (fortgeschritten) | Microservices-Architektur (fortgeschritten) | Clean Code (fortgeschritten) | Design Patterns (fortgeschritten) | SOAP (fortgeschritten)  
+### Methods / Techniques
+- SCRUM *(advanced)*
+- TDD *(advanced)*
+- DDD *(advanced)*
+- REST *(advanced)*
+- Microservices Architecture *(advanced)*
+- Clean Code *(advanced)*
+- Design Patterns *(advanced)*
+- SOAP *(advanced)*
 
-**Middleware**  
-Oracle DB (fortgeschritten) | PostgreSQL (fortgeschritten) | JBoss EAP (fortgeschritten) | Weblogic (fortgeschritten) | Websphere (fortgeschritten) | Tomcat (fortgeschritten) | Kafka (fortgeschritten) | Rabbit MQ (fortgeschritten)  
+### Middleware
+- Oracle DB *(advanced)*
+- PostgreSQL *(advanced)*
+- JBoss EAP *(advanced)*
+- Weblogic *(advanced)*
+- Websphere *(advanced)*
+- Tomcat *(advanced)*
+- Kafka *(advanced)*
+- Rabbit MQ *(advanced)*
 
-**Frameworks**  
-JEE / Jakarta EE (fortgeschritten) | SpringBoot (fortgeschritten) | Quarkus (fortgeschritten) | Angular (mittel) | React (mittel) | Mockito (fortgeschritten) | JUnit (fortgeschritten)  
+### Frameworks
+- JEE / Jakarta EE *(advanced)*
+- SpringBoot *(advanced)*
+- Quarkus *(advanced)*
+- Angular *(intermediate)*
+- React *(intermediate)*
+- Mockito *(advanced)*
+- JUnit *(advanced)*
 
-#### Berufserfahrung
+---
 
-**März 2024 bis laufend, Luzern, Schweiz**  
-**Software Engineer, Australian Medjugorje Centre**  
-- **Branche:** Soziales  
-- **Verantwortlichkeiten:** Entwicklung eines vollständigen mehrschichtigen Systems für das Management religiöser Dienste in Australien.  
-- **Technologien:** Docker, SpringBoot, Java 21, nginx, PostgreSQL, Angular  
+## Professional Experience
 
-**September 2023 bis Februar 2024, Bern, Schweiz**  
-**Senior Software Engineer, Mimacom AG**  
-- **Branche:** Retail  
-- **Verantwortlichkeiten:** Optimierung von GitLab CI/CD-Pipelines für ein internes Demo-Projekt zur Verkaufsakquise und Demonstration. Anwendung von DDD und Clean Architecture.  
-- **Technologien:** CI/CD, DDD, Microservices, Clean Architecture, GitLab, Docker, Kubernetes, Openshift, SpringBoot, Java 17, Linux  
+### **Software Engineer**  
+*Australian Medjugorje Centre* – Lucerne, Switzerland  
+**March 2024 – Present**  
+- **Industry:** Social  
+- **Responsibilities:** Development of a complete multi-layered system for managing religious services in Australia.  
+- **Technologies:** Docker, SpringBoot, Java 21, nginx, PostgreSQL, Angular, Kubernetes
 
-**März 2021 bis August 2023, Düsseldorf, Deutschland**  
-**Spezialist für Anwendungsentwicklung, Accenture GmbH**  
-- **Branche:** Öffentlicher Dienst  
-  - **Verantwortlichkeiten:** Entwicklung von Jobs anhand SpringBatch, Entwicklung von APIs anhand SpringBoot, Erstellung von Dokumentation anhand Swagger, JEE Services, Oracle DB Queries, Postgres Queries, Deployment auf Azure Cloud, Monitoring von Services anhand Dynatrace.  
-  - **Technologien:** Spring Framework, Spring Boot, Swagger, JEE, Oracle DB, PostgreSQL, Azure Cloud, Dynatrace  
+---
 
-**Juni 2019 bis Dezember 2020, Ratingen, Deutschland**  
-**Java Engineer, HYAND (ehemals MT AG)**  
-- **Branche:** Chemie  
-  - **Verantwortlichkeiten:** Web Scraping anhand HTMLUnit, CQRS Funktionalität anhand Kafka, Microservices anhand SpringBoot, Deployment auf Openshift, JSF Frontend Entwicklung, Deployment auf JBoss AS.  
-  - **Technologien:** SpringBoot, Kafka, Openshift, JBoss AS, JSF, HtmlUnit, Java 8  
+### **Senior Software Engineer**  
+*Mimacom AG* – Bern, Switzerland  
+**September 2023 – February 2024**  
+- **Industry:** Retail  
+- **Responsibilities:** Optimization of GitLab CI/CD pipelines for an internal demo project focused on sales acquisition and demonstration. Application of DDD and Clean Architecture.  
+- **Technologies:** CI/CD, DDD, Microservices, Clean Architecture, GitLab, Docker, Kubernetes, Openshift, SpringBoot, Java 17, Linux
 
-**November 2018 bis Mai 2019, Mülheim an der Ruhr, Deutschland**  
-**Java Enterprise Engineer, Rhein-Ruhr-Informatik GmbH**  
-- **Branche:** Öffentlicher Dienst  
-- **Verantwortlichkeiten:** JEE Backend Entwicklung, Deployment auf Weblogic, Entwurf und Implementierung von Sicherheits-Funktionalitäten.  
-- **Technologien:** JEE7, Weblogic, Java 8  
+---
 
-**April 2018 bis Oktober 2018, Curitiba, Brasilien**  
-**Professioneller Java-Entwickler, NTT Data Business Solutions Brazil (ehemals FH)**  
-- **Branche:** Landwirtschaft  
-- **Verantwortlichkeiten:** Entwicklung und Integration der Ausgabe des internen LKW-Wiegesystems mithilfe einer Industriewaage mit SAP Back Office, Weiterentwicklung und Wartung von SAP Hybris E-Commerce Clients.  
-- **Technologien:** Java 8, JEE, Wildfly, SAP JConnector  
+### **Application Development Specialist**  
+*Accenture GmbH* – Düsseldorf, Germany  
+**March 2021 – August 2023**  
+- **Industry:** Public Sector, Automobile  
+- **Responsibilities:** Development of jobs using SpringBatch, development of APIs using SpringBoot, creation of documentation with Swagger, JEE services, Oracle DB queries, Postgres queries, deployment on Azure Cloud, monitoring of services with Dynatrace.  
+- **Technologies:** Spring Framework, Spring Boot, Swagger, JEE, Oracle DB, PostgreSQL, Azure Cloud, Dynatrace
 
-**August 2016 bis Juli 2017, Curitiba, Brasilien**  
-**Java Engineer, M2Sys Tecnologia e Serviços S/A**  
-- **Branche:** Banking  
-- **Verantwortlichkeiten:** Entwicklung des Backends des Echtheitsprüfungssystems für digitalisierte Dokumente, Entwicklung des Frontends, Erstellung des Datenmodells.  
-- **Technologien:** Java Enterprise Edition, Oracle Database, JBoss AS, Eclipse IDE  
+---
 
-**Juni 2015 bis November 2015, Curitiba, Brasilien**  
-**J2EE-Entwickler, Wipro**  
-- **Branche:** Retail  
-- **Verantwortlichkeiten:** Wartung von JEE-Verkaufssystem und dessen Integration mit dem SAP-Backoffice gemäß der ITIL-Methodik, Entwicklung neuer Funktionen für das PDA Salesforce System.  
-- **Technologien:** Java 8, JEE 7, JBoss AS, Linux, JMS, RabbitMQ, SAP JConnector, C++, ITIL  
+### **Senior Java Enterprise Developer**  
+*HYAND* – Ratingen, Germany  
+**June 2019 – December 2020**  
+- **Industry:** Chemicals, Energy  
+- **Responsibilities:** Web scraping with HTMLUnit, CQRS functionality with Kafka, microservices with SpringBoot, deployment on Openshift, JSF frontend development, deployment on JBoss AS.  
+- **Technologies:** SpringBoot, Kafka, Openshift, JBoss AS, JSF, HtmlUnit, Java 8
 
-**Februar 2014 bis April 2015, Paranavaí, Brasilien**  
-**J2EE-Entwickler, Imobiliária Paranavaí**  
-- **Branche:** Immobilien  
-- **Verantwortlichkeiten:** Entwicklung des Immobilien-Systems, Frontend Entwicklung in JSF, Backend Entwicklung in J2EE.  
-- **Technologien:** Java Enterprise Edition, Postgres Database, JBoss AS, Eclipse IDE, Junit, Maven, Spring Framework, REST, Primefaces, JSF, ORM, JPA, SQL, Hibernate, Git  
+---
 
-**August 2011 bis Dezember 2013, Paranavaí, Brasilien**  
-**Java-Entwickler, Madeiras Informática**  
-- **Branche:** Retail  
-- **Verantwortlichkeiten:** Implementierung der neuen E-Invoicing-Anforderungen der brasilianischen Steuerbehörde, Entwicklung des C-DLL-Brücke-Komponentes, um Anfragen des VB6-Systems an den SOAP-Client in Java zu senden, damit dieser wiederum die Anfragen an die Regierung Server weiterleitet.  
-- **Technologien:** Java 7, Java 8, JEE 7, Jetty, C, VB6, SOAP  
+### **Java Senior Developer**  
+*Rhein-Ruhr-Informatik GmbH* – Mülheim an der Ruhr, Germany  
+**November 2018 – May 2019**  
+- **Industry:** Public Sector  
+- **Responsibilities:** JEE backend development, deployment on Weblogic, design and implementation of security functionalities.  
+- **Technologies:** JEE7, Weblogic, Java 8
 
-#### Ausbildung und Weiterbildung
+---
 
-- **Systems Analysis and Development, Bachelor, UniCV – voraussichtlicher Abschluss 2026**  
-- **Técnico em Desenvolvimento de Sistemas, Technischer Titel, SEI – Abschluss 06. August 2025** (Verify: https://sistec.mec.gov.br/validadenacional mit dem Code 71331/128470712CM)  
-- **telc Deutsch C1 Hochschule, Sprachzertifikat (C1-Niveau), telc – Abschluss 20. September 2024** (Verify: https://results.telc.net/qr/jGygcj98RaKAV250nzQPBeQonPM66kPbkU6ZoOKH14gOhjbbO0hNkagCYK8Qj5bl)  
-- **IMERSAO START HACKING, Kurs (10 Stunden), TI ACADEMY – Abschluss 17. August 2025** (Verify: https://gerarcertificado.com.br/validar/?cert=89a03c39debef97c97f06cfbe8a83181)  
-- **WORKSHOP HACKER INVESTIGADOR, Kurs (16 Stunden), Hacker Society – Abschluss 10. August 2025** (Verify: https://certopus.com/c/71ad5fc15f9a40d186956fca63a01697)  
-- **The Complete Microservices & Event-Driven Architecture, Kurs (5,5 Stunden), Udemy – Abschluss 17. Juni 2024** (Verify: https://ude.my/UC-5b4e81a0-7909-4be2-8f0d-57b3ef846944)  
-- **x86 Assembly Language Programming Masters Course, Kurs (3,5 Stunden), Udemy – Abschluss 15. November 2023** (Verify: https://ude.my/UC-1d211148-d73a-42c2-8b98-3f97430ef8aa)  
-- **IBM DevOps and Software Engineering, Professional Certificate (14 Kurse), Coursera – Abschluss 07. September 2023** (Verify: https://coursera.org/verify/professional-cert/6FE8YT3KXTTP)  
-- **Programming in Java: A Hands-on Introduction, Spezialisierung (4 Kurse), Coursera – Abschluss 10. Dezember 2021** (Verify: https://coursera.org/verify/specialization/AWQJ5TZMAQHA)  
-- **Java 8 New Features, Kurs (20,5 Stunden), Udemy – Abschluss 26. Oktober 2021** (Verify: https://ude.my/UC-b15f8ff6-335d-483d-914a-02015aa753e8)  
-- **Eclipse Debugging Techniques And Tricks, Kurs (3 Stunden), Udemy – Abschluss 08. Oktober 2021** (Verify: https://www.udemy.com/certificate/UC-97f9c96e-d759-4f51-8e20-33c2a6057f58)  
-- **Test-Driven Development in Java, Kurs (3 Stunden), Udemy – Abschluss 21. Dezember 2019** (Verify: https://ude.my/UC-YFR5UEDS)  
-- **Java Programmieren – Der Fortgeschrittenen Kurs, Kurs (11,5 Stunden), Udemy – Abschluss 17. Dezember 2018** (Verify: https://ude.my/UC-2GEYF6NS)  
-- **Introduction to Python, Kurs (4 Stunden), DataCamp – Abschluss 21. August 2018** (Verify: https://www.datacamp.com/completed/statement-of-accomplishment/course/ebcfd533cd55772c6b89d39dc05496519c9cfde9)  
-- **Preparatório Para Certificação Java – OCPJP, Kurs (45 Stunden), MX Cursos – Abschluss 04. November 2014** (Verify: https://app.mxcursos.com/app/certificado?code=92ADC21)  
+### **System Specialist**  
+*NTT Data Business Solutions* – Curitiba, Brazil  
+**April 2018 – October 2018**  
+- **Industry:** Agriculture  
+- **Responsibilities:** Development and integration of the internal truck weighing system output with an industrial scale and SAP Back Office, further development and maintenance of SAP Hybris E-Commerce clients.  
+- **Technologies:** Java 8, JEE, Wildfly, SAP JConnector, SAP Hybris
 
-#### Sprachen
+---
 
-- **Portugiesisch:** Muttersprache  
-- **Deutsch:** C1 (telc Deutsch C1 Hochschule, 2024)  
-- **Englisch:** C1  
-- **Spanisch:** C1  
-- **Italienisch:** C1  
+### **System Analyst Mid-Level**  
+*M2Sys Tecnologia e Serviços S/A* – Curitiba, Brazil  
+**August 2016 – July 2017**  
+- **Industry:** Banking  
+- **Responsibilities:** Development of the backend for the document authenticity verification system for digitalized documents, frontend development, creation of the data model.  
+- **Technologies:** Java Enterprise Edition, Oracle Database, JBoss AS, Eclipse IDE
+
+---
+
+### **J2EE Developer**  
+*Wipro* – Curitiba, Brazil  
+**June 2015 – November 2015**  
+- **Industry:** Retail  
+- **Responsibilities:** Maintenance of JEE sales system and its integration with SAP Backoffice according to ITIL methodology, development of new features for the PDA Salesforce system.  
+- **Technologies:** Java 8, JEE 7, JBoss AS, Linux, JMS, RabbitMQ, SAP JConnector, C++, ITIL
+
+---
+
+### **J2EE Developer**  
+*Imobiliária Paranavaí* – Paranavaí, Brazil  
+**February 2014 – April 2015**  
+- **Industry:** Real Estate  
+- **Responsibilities:** Development of the real estate system, frontend development in JSF, backend development in J2EE.  
+- **Technologies:** Java Enterprise Edition, Postgres Database, JBoss AS, Eclipse IDE, Junit, Maven, Spring Framework, REST, Primefaces, JSF, ORM, JPA, SQL, Hibernate, Git
+
+---
+
+### **Java Developer**  
+*Madeiras Informática* – Paranavaí, Brazil  
+**August 2011 – December 2013**  
+- **Industry:** Retail  
+- **Responsibilities:** Implementation of new e-invoicing requirements by the Brazilian tax authority, development of the C-DLL bridge component to send VB6 system requests to the Java SOAP client, which in turn forwards them to government servers.  
+- **Technologies:** Java 7, Java 8, JEE 7, Jetty, C, VB6, SOAP
+
+---
+
+## Education and Training
+
+- **Systems Analysis and Development**, *Bachelor* – **UniCV** – *Expected completion 2026*
+- **Técnico em Desenvolvimento de Sistemas**, *Technical Degree* – **SEI** – *Completion 08/06/2025*  
+  [Verify](https://sistec.mec.gov.br/validadenacional) with code `71331/128470712CM`
+- **telc Deutsch C1 Hochschule**, *Language Certificate (C1 Level)* – **telc** – *Completion 09/20/2024*  
+  [Verify](https://results.telc.net/qr/jGygcj98RaKAV250nzQPBeQonPM66kPbkU6ZoOKH14gOhjbbO0hNkagCYK8Qj5bl)
+- **IMERSÃO START HACKING**, *Course (10 hours)* – **TI ACADEMY** – *Completion 08/17/2025*  
+  [Verify](https://gerarcertificado.com.br/validar/?cert=89a03c39debef97c97f06cfbe8a83181)
+- **WORKSHOP HACKER INVESTIGADOR**, *Course (16 hours)* – **Hacker Society** – *Completion 08/10/2025*  
+  [Verify](https://certopus.com/c/71ad5fc15f9a40d186956fca63a01697)
+- **The Complete Microservices & Event-Driven Architecture**, *Course (5.5 hours)* – **Udemy** – *Completion 06/17/2024*  
+  [Verify](https://ude.my/UC-5b4e81a0-7909-4be2-8f0d-57b3ef846944)
+- **x86 Assembly Language Programming Masters Course**, *Course (3.5 hours)* – **Udemy** – *Completion 11/15/2023*  
+  [Verify](https://ude.my/UC-1d211148-d73a-42c2-8b98-3f97430ef8aa)
+- **IBM DevOps and Software Engineering**, *Professional Certificate (14 courses)* – **Coursera** – *Completion 09/07/2023*  
+  [Verify](https://coursera.org/verify/professional-cert/6FE8YT3KXTTP)
+- **Programming in Java: A Hands-on Introduction**, *Specialization (4 courses)* – **Coursera** – *Completion 12/10/2021*  
+  [Verify](https://coursera.org/verify/specialization/AWQJ5TZMAQHA)
+- **Java 8 New Features**, *Course (20.5 hours)* – **Udemy** – *Completion 10/26/2021*  
+  [Verify](https://ude.my/UC-b15f8ff6-335d-483d-914a-02015aa753e8)
+- **Eclipse Debugging Techniques And Tricks**, *Course (3 hours)* – **Udemy** – *Completion 10/08/2021*  
+  [Verify](https://www.udemy.com/certificate/UC-97f9c96e-d759-4f51-8e20-33c2a6057f58)
+- **Test-Driven Development in Java**, *Course (3 hours)* – **Udemy** – *Completion 12/21/2019*  
+  [Verify](https://ude.my/UC-YFR5UEDS)
+- **Java Programmieren – Der Fortgeschrittenen Kurs**, *Course (11.5 hours)* – **Udemy** – *Completion 12/17/2018*  
+  [Verify](https://ude.my/UC-2GEYF6NS)
+- **Introduction to Python**, *Course (4 hours)* – **DataCamp** – *Completion 08/21/2018*  
+  [Verify](https://www.datacamp.com/completed/statement-of-accomplishment/course/ebcfd533cd55772c6b89d39dc05496519c9cfde9)
+- **Preparatório Para Certificação Java – OCPJP**, *Course (45 hours)* – **MX Cursos** – *Completion 11/04/2014*  
+  [Verify](https://app.mxcursos.com/app/certificado?code=92ADC21)
+
+---
+
+## Languages
+
+- **Portuguese:** Native
+- **German:** C1 *(telc Deutsch C1 Hochschule, 2024)*
+- **English:** C1
+- **Spanish:** C1
+- **Italian:** C1
