@@ -1,7 +1,6 @@
 # José Esteves de Souza Neto
 
 **Geburtsdatum:** 13.08.1980  
-**Telefon:** +55(31)99675-5500  
 **E-Mail:** josethedeveloper@gmail.com  
 
 #### Über mich
